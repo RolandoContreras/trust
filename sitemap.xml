@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://www.yourbitshares.com/site/</loc>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/home</loc>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/acerca</loc>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/plan</loc>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/contacto</loc>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/login</loc>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/backoffice</loc>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/static/plan/document/presentacion-bitshare-es2.pdf</loc>
+  <lastmod>2016-11-30T18:39:59+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/static/plan/document/presentacion-bitshare-es2.pptx</loc>
+  <lastmod>2016-11-30T18:41:04+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/recuperar</loc>
+</url>
+<url>
+  <loc>http://www.yourbitshares.com/site/static/plan/document/terminos-y-condiciones.docx</loc>
+  <lastmod>2016-11-29T04:46:33+00:00</lastmod>
+</url>
+</urlset>

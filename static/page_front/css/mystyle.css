@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/03/2017, 10:42:13 PM
+    Author     : Rolando Contreras
+*/
+.icon-wrapp_face:hover, .focus-icon .icon-wrapp {
+    /*background-color: #fff;*/
+    color: #1db8ea;
+}
+.icon-wrapp_you:hover, .focus-icon .icon-wrapp {
+    /*background-color: #fff;*/
+    color: #1db8ea;
+}
+
+.icon-wrapp_face {
+color:#3b5998;
+display: inline-flex;
+justify-content: center;
+align-items: center;
+width: 30px;
+height: 30px;
+border-radius: 50px;
+background-color: white;
+/*background-color: gray;*/
+box-sizing: border-box;
+padding: 15px !important;
+}
+.icon-wrapp_you {
+color:red;
+display: inline-flex;
+justify-content: center;
+align-items: center;
+width: 30px;
+height: 30px;
+border-radius: 50px;
+background-color: white;
+/*background-color: gray;*/
+box-sizing: border-box;
+padding: 15px !important;
+}
+.siguenos{
+margin-top: 15%;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
